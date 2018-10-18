@@ -13,7 +13,7 @@
     </scm>
 
     <properties>
-        <springVersion>4.3.7.RELEASE</springVersion>
+        <springVersion>4.3.20.RELEASE</springVersion>
     </properties>
 
     <dependencies>
